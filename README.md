@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @webplusmultimedia
 - 👀 I’m interested in Laravel, Livewire, Alpine Js, Tailwind Css, Flutter, etc ..
 - 🌱 I’m senior Laravel developper
-- - 💞️ I’m looking to collaborate on Admin architech
 - 📫 How to reach me : contact@webplusm.net
 
 <!---
